@@ -1,0 +1,9 @@
+C:\Users\yaned\source\repos\Store\Store\obj\Debug\Store.Framework.csprojAssemblyReference.cache
+C:\Users\yaned\source\repos\Store\Store\obj\Debug\Store.Framework.csproj.CoreCompileInputs.cache
+C:\Users\yaned\source\repos\Store\Store\bin\Debug\Store.dll
+C:\Users\yaned\source\repos\Store\Store\bin\Debug\Store.pdb
+C:\Users\yaned\source\repos\Store\Store\bin\Debug\WebDriver.dll
+C:\Users\yaned\source\repos\Store\Store\bin\Debug\WebDriver.xml
+C:\Users\yaned\source\repos\Store\Store\obj\Debug\Store.Framework.csproj.CopyComplete
+C:\Users\yaned\source\repos\Store\Store\obj\Debug\Store.dll
+C:\Users\yaned\source\repos\Store\Store\obj\Debug\Store.pdb
